@@ -1,4 +1,4 @@
-### my temperate
+### my app
 
 ### Highlights
 - SPA (Single Page Application)
